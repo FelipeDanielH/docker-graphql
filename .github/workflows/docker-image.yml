@@ -31,7 +31,7 @@ jobs:
 
     - name: Push Docker Image
       run: |
-        docker push felipedaniel/docker-graphql:1.0.2 .
+        docker push felipedaniel/docker-graphql:1.0.2
         
         
         
