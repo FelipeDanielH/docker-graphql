@@ -3,5 +3,6 @@ import { HelloWorldResolver } from './hello-world.resolver';
 
 @Module({
   providers: [ HelloWorldResolver ]
+  
 })
 export class HelloWorldModule {}
